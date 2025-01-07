@@ -1,4 +1,3 @@
-```markdown
 ### Task 1: Add multiple students
 ```json
 db.students.insertMany([
